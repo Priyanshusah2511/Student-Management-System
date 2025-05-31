@@ -1,3 +1,4 @@
+
 # Student Record Management System (Java)
 
 A simple Java-based console application to manage student records using file I/O. The system allows you to:
@@ -79,4 +80,5 @@ students.txt
 
 ## 📃 License
 
-This project is licensed under the MIT License - feel free to use and modify.
+This project is licensed under the MIT License
+
